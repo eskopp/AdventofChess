@@ -18,6 +18,6 @@ David leads you to the TSC control room. On the monitors, you see distorted read
 
 David nods. "We’ve got to stabilize the TSC before it collapses. The first step is getting to this position after White's 6th move."
 
-![Stellung Tag 1](/day1.jpg "rnb1kbnr/ppp1pppp/8/3p1q2/8/5PK1/PPPPP1PP/RNBQ1BNR w kq - 0 1")
+![Stellung Tag 1](/day1.jpg "rnb1kbnr/ppp1pppp/8/3p1q2/8/5PK1/PPPPP1PP/RNBQ1BNR b kq - 0 1")
 
 day1.jpg
