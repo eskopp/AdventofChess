@@ -1,5 +1,5 @@
 ---
-title: Day 1 - Historian Hysteria
+title: Day 1 
 toc: false
 type: docs
 ---
