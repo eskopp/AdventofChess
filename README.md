@@ -1,1 +1,5 @@
 # Advent of Chess
+
+
+
+The content on this page is based on the tasks from Advent of Chess. The tasks have been prepared and solved exclusively in German. All copyrights remain with the original authors and operators of Advent of Chess. This page solely serves to translate and solve the tasks and makes no claim to the original material.
