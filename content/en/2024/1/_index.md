@@ -1,5 +1,5 @@
 ---
-title: Day 1 
+title: Day 1 - Proof Game
 toc: false
 type: docs
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tag 1 
+title: Tag 1 - Stellungsmatt
 toc: false
 type: docs
 ---
