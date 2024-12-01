@@ -16,10 +16,15 @@ markup:
   highlight:
     noClasses: false
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 
 languages:
 
+  de:
+    languageName: German / Deutsch
+    weight: 1
+    title: Advent of Chess
+    contentDir: "content/de"  
   en:
     languageName: Englisch
     weight: 1

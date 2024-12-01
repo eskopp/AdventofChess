@@ -43,7 +43,7 @@ jobs:
         with:
           host: ${{ secrets.SSH_SERVER }}
           username: ${{ secrets.SSH_USERNAME }}
-          source: "docs/public/*"
+          source: "public/*"
           target: "/var/www/erik-skopp/adventofchess"
           rm: true
           password: ${{ secrets.SSH_PASSWORD }}
