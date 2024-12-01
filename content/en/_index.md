@@ -7,9 +7,6 @@ type: docs
 [Link to Advent of Chess](https://adventofchess.com)
 
 # 2024
-
-{{< /callout >}}
-
 {{< cards >}}
 {{< card link="2024/1" title="Day 1" icon="star" >}}
 {{< card link="2024/2" title="Day 2" icon="star" >}}
