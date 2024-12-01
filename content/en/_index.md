@@ -4,7 +4,6 @@ toc: false
 type: docs
 ---
 
-[Link to Advent of Chess](https://adventofchess.com)
 
 # 2024
 {{< cards >}}
