@@ -17,3 +17,7 @@ David leads you to the TSC control room. On the monitors, you see distorted read
 "This must be Grinchuk," Wesley says. "He’s back."
 
 David nods. "We’ve got to stabilize the TSC before it collapses. The first step is getting to this position after White's 6th move."
+
+![Stellung Tag 1](/day1.jpg "Titel des Bildes")
+
+day1.jpg
