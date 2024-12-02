@@ -1,5 +1,5 @@
 ---
-title: Day 3
+title: Day 3 - Temptation
 toc: false
 type: docs
 ---
