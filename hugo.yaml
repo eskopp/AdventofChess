@@ -57,11 +57,11 @@ params:
     default: system
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: false
+    displayCopyright: true
+    displayPoweredBy: true
 
   editURL:
-    enable: false
+    enable: true
     base: "https://github.com/eskopp/AdventofChess/edit/main/"
   
   page:
