@@ -36,6 +36,7 @@ jobs:
       - name: Build Hugo site
         run: |
           sed -i 's|baseURL: "https://erik-skopp.de/AdventofChess/"|baseURL: "https://adventskalender.ilmenauer-schachverein.de"|' hugo.yaml
+          sed -i 's|url: "https://instagram.com/e.skopp"|url: "https://instagram.com/ilmenauer_schachverein"|' hugo.yaml
           hugo mod get
           hugo
 
