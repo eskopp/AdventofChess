@@ -62,7 +62,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/eskopp/AdventofChess/edit/main/"
+    base: "https://github.com/eskopp/AdventofChess/edit/content/main/"
   
   page:
     width: full
