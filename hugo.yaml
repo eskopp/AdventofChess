@@ -57,7 +57,7 @@ params:
     default: system
 
   footer:
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: false
 
   editURL:

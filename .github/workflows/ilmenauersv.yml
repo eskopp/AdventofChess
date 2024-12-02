@@ -1,4 +1,4 @@
-name: Deploy Website
+name: Deploy Ilmenauer Schachverein Website
 
 on:
   push:
