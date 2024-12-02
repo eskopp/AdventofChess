@@ -52,7 +52,7 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
-
+    
   theme:
     default: system
 
