@@ -5,7 +5,7 @@ type: docs
 ---
 
 
-T.B.A.
+**1. Ke5 Rc2 2. Kd4 Nf5+ 3. Kd3 Nb4#**
 
 
 <br>

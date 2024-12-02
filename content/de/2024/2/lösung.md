@@ -4,7 +4,8 @@ toc: false
 type: docs
 ---
 
-T.B.A.
+
+**1. Ke5 Tc2 2. Kd4 Sf5+ 3. Kd3 Sb4#**
 
 
 <br>
@@ -13,4 +14,4 @@ T.B.A.
     style="width: 100%; height: 80vh;" 
     src="https://lichess.org/study/embed/PrONOirR/TpZYorpk" 
     frameborder="0">
-</iframe> 
+</iframe>
