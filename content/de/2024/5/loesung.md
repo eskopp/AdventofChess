@@ -4,9 +4,10 @@ toc: false
 type: docs
 ---
 
-T.B.A.
+**Weiß fügt einen Bauern auf h2 hinzu und spielt 1. h4 gxh3 2. Lxg6#**
 
 
+<!--
 <br>
 <br>
 <iframe 
@@ -14,3 +15,5 @@ T.B.A.
     src="https://lichess.org/study/embed/PrONOirR/uXDi9DWU" 
     frameborder="0">
 </iframe> 
+
+-->
