@@ -18,4 +18,4 @@ The board flickers again, pieces rearranging themselves into a new position. The
 Add one square to the edge of the board, directly above, below, left, or right of an existing square. Then White moves first, mating in 2. First, specify the location of the new square. For example, write a0 or a9 if it’s below a1 or above a8, i2 if it’s to the right of h2, or z5 if it’s to the left of a5 (use z for squares left of the a-file). Once the square is added, provide the sequence of moves leading to a forced mate in 2.
 
 
-<img src="/day6.jpg" alt="Stellung Tag 6" title="3k2N1/5K2/8/8/5Q2/8/8/8 w - - 0 1" style="width: 50%; height: auto;">
+<img src="/day6.jpg" alt="Stellung Tag 6" title="3k2N1/5K2/8/8/5Q2/8/8/8 w - - 0 1" style="width: 70%; height: auto;">
