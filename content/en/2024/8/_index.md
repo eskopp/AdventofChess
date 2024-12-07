@@ -22,4 +22,4 @@ Wesley stiffens. "What’s that?"
 
 David frowns. "No one's supposed to be in there, but that's... the Cryostasis Chamber."
 
-Starting from the initial position, construct a game where White checkmates on the 6th move by playing a move that is both a discovered mate and an en passant capture. Please go to the Lichess analysis board, carry out the moves, and copy the PGN under the board. 
+Starting from the initial position, construct a game where White checkmates on the 6th move by playing a move that is both a discovered mate and an en passant capture. 
