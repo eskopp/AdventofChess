@@ -4,15 +4,4 @@ toc: false
 type: docs
 ---
 
-T.B.A.
-
-
-<!--
-<br>
-<br>
-<iframe 
-    style="width: 100%; height: 80vh;" 
-    src="https://lichess.org/study/embed/PrONOirR/4NFml2tJ" 
-    frameborder="0">
-</iframe> 
--->
+**1. b5 2. b4 3. b3 4. b2 5. b1=T 6.Tb8 7.Th8 8.Kf8 9. Tg8+ hxg8=S**
