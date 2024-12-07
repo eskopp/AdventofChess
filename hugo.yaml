@@ -23,7 +23,7 @@ languages:
   de:
     languageName: German / Deutsch
     weight: 1
-    title: Advent of Chess
+    title: Schach Adventskalender
     contentDir: "content/de"  
   en:
     languageName: Englisch / English
