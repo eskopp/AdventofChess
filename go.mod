@@ -1,4 +1,4 @@
-module open24.ilmenauer-schachverein.de
+module erik-skopp.de/AdventofChess  
 
 go 1.23
 
