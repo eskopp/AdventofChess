@@ -1,15 +1,18 @@
 ---
-title: Day 6 - Solution
+title: Tag 7 - Lösung 
 toc: false
 type: docs
 ---
 
-**The square is added on e9. <br> 1. Ne9 Kxe9 2. Qc7#.**
+T.B.A.
 
+
+<!--
 <br>
 <br>
 <iframe 
     style="width: 100%; height: 80vh;" 
     src="https://lichess.org/study/embed/PrONOirR/4NFml2tJ" 
     frameborder="0">
-</iframe>
+</iframe> 
+-->

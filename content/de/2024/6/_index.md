@@ -17,7 +17,4 @@ Das Brett flackert erneut, Figuren ordnen sich in eine neue Position um. Das los
 Aufgabe: Füge ein neues Feld am Rand des Bretts hinzu, entweder direkt über, unter, links oder rechts von einem existierenden Feld. Weiß zieht zuerst und setzt in 2 Zügen matt.
 Zuerst: Bestimme die Position des neuen Feldes (zum Beispiel a0, wenn es unterhalb von a1 liegt, oder a9, wenn es oberhalb von a8 liegt; i2, wenn es rechts von h2 liegt, oder z5, wenn es links von a5 liegt). Nachdem das Feld hinzugefügt wurde, gib die Zugfolge an, die zu einem erzwungenen Matt in 2 führt.
 
-<!-- [Stellung Tag 6](/day6.jpg "3k2N1/5K2/8/8/5Q2/8/8/8 w - - 0 1")
--->
-
-<img src="/day6.jpg" alt="Stellung Tag 6" title="3k2N1/5K2/8/8/5Q2/8/8/8 w - - 0 1" style="width: 70%; height: auto;">
+![Stellung Tag 6](/day6.jpg "3k2N1/5K2/8/8/5Q2/8/8/8 w - - 0 1")
