@@ -4,9 +4,8 @@ toc: false
 type: docs
 ---
 
-T.B.A.
-
-
+- Das hinzugefügte Feld ist e9. 
+- 1. Ne9 Kxe9 2. Qc7#.
 
 <br>
 <br>
@@ -15,3 +14,4 @@ T.B.A.
     src="https://lichess.org/study/embed/PrONOirR/4NFml2tJ" 
     frameborder="0">
 </iframe> 
+

@@ -4,7 +4,8 @@ toc: false
 type: docs
 ---
 
-**The square is added on e9. <br> 1. Ne9 Kxe9 2. Qc7#.**
+- The square is added on e9. 
+- 1. Ne9 Kxe9 2. Qc7#.
 
 <br>
 <br>
