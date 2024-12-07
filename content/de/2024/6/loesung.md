@@ -5,7 +5,7 @@ type: docs
 ---
 
 - Das hinzugefügte Feld ist e9. 
-- 1. Ne9 Kxe9 2. Qc7#.
+- 1. Se9 Kxe9 2. Dc7#.
 
 <br>
 <br>
