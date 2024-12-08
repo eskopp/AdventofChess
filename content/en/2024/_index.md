@@ -13,7 +13,7 @@ type: docs
 {{< card link="6" title="Day 6" icon="star" >}}
 {{< card link="7" title="Day 7" icon="star" >}}
 {{< card link="8" title="Day 8" icon="star" >}}
-<!--{{< card link="9" title="Day 9" icon="star" >}}
+{{< card link="9" title="Day 9" icon="star" >}}
 {{< card link="10" title="Day 10" icon="star" >}}
 {{< card link="11" title="Day 11" icon="star" >}}
 {{< card link="12" title="Day 12" icon="star" >}}
