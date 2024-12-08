@@ -28,6 +28,6 @@ type: docs
 {{< card link="21" title="Day 21" icon="star" >}}
 {{< card link="22" title="Day 22" icon="star" >}}
 {{< card link="23" title="Day 23" icon="star" >}}
-{{< card link="24" title="Day 24" icon="star" >}}-->
+{{< card link="24" title="Day 24" icon="star" >}}
 
 {{< /cards >}}
