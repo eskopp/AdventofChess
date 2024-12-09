@@ -3,8 +3,8 @@ baseURL: "https://erik-skopp.de/AdventofChess/"
 
 # import hextra as module
 module:
- imports:
-  - path: github.com/imfing/hextra
+  imports:
+    - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
@@ -19,17 +19,16 @@ markup:
 defaultContentLanguage: de
 
 languages:
-
   de:
     languageName: German / Deutsch
     weight: 1
     title: Schach Adventskalender
-    contentDir: "content/de"  
+    contentDir: "content/de"
   en:
     languageName: Englisch / English
     weight: 1
     title: Advent of Chess
-    contentDir: "content/en"  
+    contentDir: "content/en"
 menu:
   main:
     - name: Search
@@ -52,7 +51,11 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
-    
+
+  services:
+   googleAnalytics:
+     ID: G-HG662K1KYJ
+
   theme:
     default: system
 
@@ -63,6 +66,6 @@ params:
   editURL:
     enable: true
     base: "https://github.com/eskopp/AdventofChess/edit/content/main/"
-  
+
   page:
     width: full
