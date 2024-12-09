@@ -46,6 +46,10 @@ menu:
       params:
         icon: instagram
 
+services:
+  googleAnalytics:
+    ID: G-9Y4Z2P0QTE
+
 params:
   disableToc: true
   navbar:
@@ -65,7 +69,3 @@ params:
 
   page:
     width: full
-
-services:
-  googleAnalytics:
-    ID: G-9Y4Z2P0QTE
