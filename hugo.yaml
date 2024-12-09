@@ -54,7 +54,7 @@ params:
 
   services:
    googleAnalytics:
-     ID: G-HG662K1KYJ
+     ID: G-9Y4Z2P0QTE
 
   theme:
     default: system
