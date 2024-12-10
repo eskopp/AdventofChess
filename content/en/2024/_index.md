@@ -14,8 +14,8 @@ type: docs
 {{< card link="7" title="Day 7" icon="star" >}}
 {{< card link="8" title="Day 8" icon="star" >}}
 {{< card link="9" title="Day 9" icon="star" >}}
-<!--{{< card link="10" title="Day 10" icon="star" >}}
-{{< card link="11" title="Day 11" icon="star" >}}
+{{< card link="10" title="Day 10" icon="star" >}}
+<!--{{< card link="11" title="Day 11" icon="star" >}}
 {{< card link="12" title="Day 12" icon="star" >}}
 {{< card link="13" title="Day 13" icon="star" >}}
 {{< card link="14" title="Day 14" icon="star" >}}
@@ -28,6 +28,6 @@ type: docs
 {{< card link="21" title="Day 21" icon="star" >}}
 {{< card link="22" title="Day 22" icon="star" >}}
 {{< card link="23" title="Day 23" icon="star" >}}
-{{< card link="24" title="Day 24" icon="star" >}}
+{{< card link="24" title="Day 24" icon="star" >}}-->
 
 {{< /cards >}} -->

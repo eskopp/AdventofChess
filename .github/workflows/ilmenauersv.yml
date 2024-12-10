@@ -37,7 +37,7 @@ jobs:
         run: |
           sed -i 's|baseURL: "https://erik-skopp.de/AdventofChess/"|baseURL: "https://adventskalender.ilmenauer-schachverein.de"|' hugo.yaml
           sed -i 's|url: "https://instagram.com/e.skopp"|url: "https://instagram.com/ilmenauer_schachverein"|' hugo.yaml
-          sed -i 's|G-9Y4Z2P0QTE|G-HT246L9E78|' hugo.yaml
+          sed -i 's|G-9Y4Z2P0QTE|G-HT246L9E78|' hugo.yaml 
           hugo mod get
           hugo
 

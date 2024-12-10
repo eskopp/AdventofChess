@@ -14,8 +14,8 @@ type: docs
 {{< card link="7" title="Tag 7" icon="star" >}}
 {{< card link="8" title="Tag 8" icon="star" >}}
 {{< card link="9" title="Tag 9" icon="star" >}}
-<!--{{< card link="10" title="Tag 10" icon="star" >}}
-{{< card link="11" title="Tag 11" icon="star" >}}
+{{< card link="10" title="Tag 10" icon="star" >}}
+<!--{{< card link="11" title="Tag 11" icon="star" >}}
 {{< card link="12" title="Tag 12" icon="star" >}}
 {{< card link="13" title="Tag 13" icon="star" >}}
 {{< card link="14" title="Tag 14" icon="star" >}}
