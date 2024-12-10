@@ -6,6 +6,7 @@ type: docs
 
 
 T.B.A.
+<!--
 
 <br>
 <br>
@@ -14,3 +15,4 @@ T.B.A.
     src="https://lichess.org/study/embed/PrONOirR/4NFml2tJ" 
     frameborder="0">
 </iframe>
+-->
