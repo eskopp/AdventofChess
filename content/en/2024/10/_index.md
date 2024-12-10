@@ -23,5 +23,5 @@ This is a helpmate problem, which means that both players cooperate to achieve m
 With Black to move first, how can White, with Black's assistance, mate on the fourth move? Black plays 4 moves and White 4, and White's 4th move is mate.
 
 
-![Stellung Tag 10](/day10.jpg "k1B5/1p6/8/3p4/3P2Pp/2n1KP1P/pppp1p1R/B3b3 w - - 0 1y")
+![Stellung Tag 10](/day10.jpg "k1B5/1p6/8/3p4/3P2Pp/2n1KP1P/pppp1p1R/B3b3 b - - 0 1")
 

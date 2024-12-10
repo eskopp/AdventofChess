@@ -22,6 +22,6 @@ Dies ist ein Hilfe-Matt-Problem, was bedeutet, dass beide Spieler kooperieren, u
 
 Mit Schwarz am Zug: Wie kann Weiß mit Unterstützung von Schwarz im vierten Zug Matt setzen? Schwarz spielt 4 Züge und Weiß ebenfalls 4, wobei der vierte Zug von Weiß das Matt ist.
 
-![Stellung Tag 10](/day10.jpg "k1B5/1p6/8/3p4/3P2Pp/2n1KP1P/pppp1p1R/B3b3 w - - 0 1y")
+![Stellung Tag 10](/day10.jpg "k1B5/1p6/8/3p4/3P2Pp/2n1KP1P/pppp1p1R/B3b3 b - - 0 1")
 
 
