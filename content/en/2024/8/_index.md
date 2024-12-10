@@ -2,6 +2,7 @@
 title: Day 8 - Konstruktion
 toc: false
 type: docs
+weight: 8
 ---
 
 The final door creaks open, revealing the Temporal Research Lab. Dusty consoles hum weakly, their screens alive with warped images – elves building toys, ancient schematics, and fragments of chess matches flickering like half-remembered dreams.

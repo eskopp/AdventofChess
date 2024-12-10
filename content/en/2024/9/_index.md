@@ -1,6 +1,7 @@
 ---
 title: Day 9 - Proof Game
 toc: false
+weight: 9
 type: docs
 ---
 

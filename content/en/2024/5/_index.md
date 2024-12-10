@@ -2,6 +2,7 @@
 title: Day 5 - Placement Mate
 toc: false
 type: docs
+weight: 5
 ---
 
 

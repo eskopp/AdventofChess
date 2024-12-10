@@ -2,6 +2,7 @@
 title: Day 2 - Helpmate
 toc: false
 type: docs
+weight: 2
 ---
 The screen flickers as the anomaly stabilizes. David Snowell wastes no time. "Good work, but this is only the beginning," he says, gesturing for you and Wesley Snow to follow him deeper into Santa’s Factory. You pass rows of elf engineers monitoring glowing terminals, all casting nervous glances at the blinking red lights overhead.
 

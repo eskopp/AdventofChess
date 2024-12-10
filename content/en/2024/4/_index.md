@@ -2,6 +2,7 @@
 title: Day 4 - Selfmate
 toc: false
 type: docs
+weight: 4
 ---
 
 

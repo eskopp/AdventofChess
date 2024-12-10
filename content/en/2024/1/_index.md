@@ -2,6 +2,7 @@
 title: Day 1 - Proof Game
 toc: false
 type: docs
+weight: 1
 ---
 
 

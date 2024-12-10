@@ -2,6 +2,7 @@
 title: Day 6 - Add a square
 toc: false
 type: docs
+weight: 6
 ---
 
 

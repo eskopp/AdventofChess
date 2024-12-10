@@ -2,6 +2,7 @@
 title: Day 3 - Temptation
 toc: false
 type: docs
+weight: 3
 ---
 
 The anomaly settles further as the solution to the problem takes effect. David Snowell exhales, shaking his head. "I can’t believe you cracked that one. Grinchuk really isn’t holding back this time, is he?"

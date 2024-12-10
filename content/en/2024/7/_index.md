@@ -1,7 +1,8 @@
 ---
-title: Day 7 
+title: Day 7 - Puzzle
 toc: false
 type: docs
+weight: 7
 ---
 
 
