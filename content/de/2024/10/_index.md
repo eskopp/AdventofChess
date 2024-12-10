@@ -2,6 +2,7 @@
 title: Tag 10 - Hilfsmatt 
 toc: false
 type: docs
+weight: 11
 ---
 
 Die schwere Tür zur Kryostasekammer zischt auf und entlässt eine eisige Luftwelle. Drinnen leuchtet eine zylindrische Kapsel schwach, Frost haftet an ihrer Oberfläche. Santa liegt darin, vollkommen regungslos, sein ikonischer Anzug wird schwach vom Licht der Kammer erhellt.

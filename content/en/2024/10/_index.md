@@ -2,6 +2,7 @@
 title: Day 10 - Hilfsmatt
 toc: false
 type: docs
+weight: 11
 ---
 
 The heavy door to the Cryostasis Chamber hisses open, releasing a gust of icy air. Inside, a cylindrical pod glows faintly, frost clinging to its surface. Santa lies within, perfectly still, his iconic suit faintly illuminated by the chamber’s light.
