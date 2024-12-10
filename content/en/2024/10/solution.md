@@ -4,7 +4,7 @@ toc: false
 type: docs
 ---
 
-- 1. b1=T Lxc3 2. d1=T Lxe1 3. f1=T Lg3 4. c1=T Txa2#
+- 1. b1=R Bxc3 2. d1=R Bxe1 3. f1=R Bg3 4. c1=R Rxa2#
 
 
 <br>
