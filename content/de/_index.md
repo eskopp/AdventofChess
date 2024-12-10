@@ -17,8 +17,8 @@ type: docs
 {{< card link="2024/8" title="Tag 8" icon="star" >}}
 {{< card link="2024/9" title="Tag 9" icon="star" >}}
 
-<!--{{< card link="2024/10" title="Tag 10" icon="star" >}}
-{{< card link="2024/11" title="Tag 11" icon="star" >}}
+{{< card link="2024/10" title="Tag 10" icon="star" >}}
+<!--{{< card link="2024/11" title="Tag 11" icon="star" >}}
 {{< card link="2024/12" title="Tag 12" icon="star" >}}
 {{< card link="2024/13" title="Tag 13" icon="star" >}}
 {{< card link="2024/14" title="Tag 14" icon="star" >}}
