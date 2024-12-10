@@ -2,6 +2,7 @@
 title: Tag 9 - Beweis 
 toc: false
 type: docs
+weight: 9
 ---
 
 Die rhythmischen Summtöne werden lauter, als du dich der versiegelten Kammer im hinteren Bereich des Labors näherst. David hält an einer nahegelegenen Konsole an und ruft Baupläne auf. „Die Kryostasekammer“, murmelt er. „Das ist der Ort, an dem wir den Weihnachtsmann zwischen den Weihnachtsfesten eingefroren halten.“

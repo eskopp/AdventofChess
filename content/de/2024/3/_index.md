@@ -2,6 +2,7 @@
 title: Tag 3 - Versuchung
 toc: false
 type: docs
+weight: 3
 ---
 Die Anomalie stabilisiert sich weiter, als die Lösung des Problems ihre Wirkung zeigt. David Snowell atmet aus und schüttelt den Kopf. „Ich kann nicht glauben, dass du das gelöst hast. Grinchuk lässt dieses Mal wirklich nichts aus, oder?“
 

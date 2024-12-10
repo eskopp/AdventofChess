@@ -2,6 +2,7 @@
 title: Tag 6 - neuer Quadrant
 toc: false
 type: docs
+weight: 6
 ---
 
 Nach der Herausforderung von Magnus Carlsen stürzt David Snowell aus dem Flur herein, sein Gesicht bleich. „Das müsst ihr euch ansehen.“

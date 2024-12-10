@@ -2,6 +2,7 @@
 title: Tag 7 - Seriehelppatt
 toc: false
 type: docs
+weight: 7
 ---
 
 

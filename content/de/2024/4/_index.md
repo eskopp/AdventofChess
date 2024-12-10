@@ -2,6 +2,7 @@
 title: Tag 4 - Selbstmatt
 toc: false
 type: docs
+weight: 4
 ---
 
 David betrachtet den Monitor. „Die Kräfte des Schwarzen Lochs schwanken. Sie erzeugen Widerstand in den Stabilisatoren – sie drücken gegen die Ausrichtung, die wir brauchen.“

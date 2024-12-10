@@ -2,6 +2,7 @@
 title: Tag 8 - Konstruktion 
 toc: false
 type: docs
+weight: 8
 ---
 
 Die letzte Tür öffnet sich knarrend und gibt den Blick auf das Zeitforschungslabor frei. Verstaubte Konsolen summen leise, ihre Bildschirme zeigen verzerrte Bilder: Elfen beim Spielzeugbau, antike Pläne und Fragmente von Schachpartien flackern wie halb erinnerte Träume.

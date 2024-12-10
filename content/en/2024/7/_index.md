@@ -1,5 +1,5 @@
 ---
-title: Day 7 - Puzzle
+title: Day 7 - Seriehelppatt
 toc: false
 type: docs
 weight: 7
