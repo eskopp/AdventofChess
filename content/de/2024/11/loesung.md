@@ -4,13 +4,5 @@ toc: false
 type: docs
 ---
 
-T.B.A.
-
-<!--
-<br>
-<br>
-<iframe 
-    style="width: 100%; height: 80vh;" 
-    src="https://lichess.org/study/embed/PrONOirR/WDC5XE8W" 
-    frameborder="0">
-</iframe> -->
+- Zuerst nehmen wir den Zug dxTe8=D zurück und anschließend e2-e1=L.
+- Dann spielen wir vorwärts: 1. e1=T dxc8=S#
