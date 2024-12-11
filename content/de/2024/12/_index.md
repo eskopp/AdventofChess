@@ -16,7 +16,7 @@ Wesley verzieht das Gesicht. "Nicht gut. Stell dir vor, du wachst auf und denkst
 
 David atmet aus. "Wir werden damit umgehen, wenn es soweit ist. Im Moment müssen wir sicherstellen, dass dieser Prozess einwandfrei abläuft."
 
-Das Summen der Kammer ändert sich und signalisiert die letzte Phase. Drinnen zucken Santas Finger leicht—ein Zeichen, dass das Leben zurückkehrt.
+Das Summen der Kammer ändert sich und signalisiert die letzte Phase. Drinnen zucken Santas Finger leicht. Ein Zeichen, dass das Leben zurückkehrt.
 
 Magnus wirft den anderen einen Blick zu. "Los geht’s."
 
