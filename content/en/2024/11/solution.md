@@ -4,15 +4,5 @@ toc: false
 type: docs
 ---
 
-
-T.B.A.
-<!--
-
-<br>
-<br>
-<iframe 
-    style="width: 100%; height: 80vh;" 
-    src="https://lichess.org/study/embed/PrONOirR/4NFml2tJ" 
-    frameborder="0">
-</iframe>
--->
+- We first retract dxRe8=Q, and then e2-e1=B.
+- Then, we play forward 1. e1=R dxc8=N#
