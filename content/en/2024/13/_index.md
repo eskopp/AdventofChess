@@ -29,5 +29,5 @@ In this position, any piece protected by another piece of the same color may not
 **Note that this is not a helpmate, so White must be able to force a mate regardless of Black's response.**
 
 
-![Stellung Tag 12](/day12.jpg "K7/1p6/2k1P3/3NP3/2PP4/5N2/8/8 b - - 0 1")
+![Stellung Tag 13](/day13.jpg "kB6/P7/P7/3N4/1P1rp3/1B1pP3/1K1P4/8 w - - 0 1")
 
