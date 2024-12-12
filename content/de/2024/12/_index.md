@@ -1,5 +1,5 @@
 ---
-title: Tag 12 - Serieshelpmate
+title: Tag 12 - Serien-Hilfsmatt
 toc: false
 type: docs
 weight: 11
