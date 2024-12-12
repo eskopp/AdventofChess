@@ -17,10 +17,10 @@ type: docs
 {{< card link="2024/8" title="Day 8" icon="star" >}}
 {{< card link="2024/9" title="Day 9" icon="star" >}}
 {{< card link="2024/10" title="Day 10" icon="star" >}}
-<!--{{< card link="2024/11" title="Day 11" icon="star" >}}
+{{< card link="2024/11" title="Day 11" icon="star" >}}
 {{< card link="2024/12" title="Day 12" icon="star" >}}
 {{< card link="2024/13" title="Day 13" icon="star" >}}
-{{< card link="2024/14" title="Day 14" icon="star" >}}
+<!--{{< card link="2024/14" title="Day 14" icon="star" >}}
 {{< card link="2024/15" title="Day 15" icon="star" >}}
 {{< card link="2024/16" title="Day 16" icon="star" >}}
 {{< card link="2024/17" title="Day 17" icon="star" >}}

@@ -39,6 +39,7 @@ jobs:
           sed -i 's|url: "https://instagram.com/e.skopp"|url: "https://instagram.com/ilmenauer_schachverein"|' hugo.yaml
           sed -i 's|G-T4Q663C3TH|G-HT246L9E78|' hugo.yaml 
           hugo mod get
+          hugo mod tidy
           hugo
 
       - name: Deploy files via SSH
