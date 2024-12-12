@@ -27,6 +27,9 @@ Santa beugt sich vor, seine scharfen Augen scannen die Stellung. "Mein Name ist 
 In dieser Stellung darf jede von einer anderen Figur derselben Farbe geschützte Figur sich nicht bewegen. Eine gefesselte Figur zählt jedoch nicht als Schützer, da sie sich nicht bewegen kann. Das bedeutet, dass Sie eine Figur bewegen können, die nur von gefesselten Figuren geschützt wird. **Weiß muss in zwei Zügen ein Matt erzwingen. Nur der Schlüsselzug (also der erste Zug von Weiß) wird für die Lösung benötigt. Beachten Sie, dass dies kein Hilfsmatt ist, also muss Weiß unabhängig von der Antwort von Schwarz ein Matt erzwingen können**
 
 
-![Stellung Tag 13](/day13.jpg "kB6/P7/P7/3N4/1P1rp3/1B1pP3/1K1P4/8 w - - 0 1")
+![Stellung Tag 13][def]
 
 
+
+
+[def]: /day13.jpg "kB6/P7/P7/3N4/1P1rp3/1B1pP3/1K1P4/8 w - - 0 1"
