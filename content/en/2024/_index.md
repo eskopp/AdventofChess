@@ -31,4 +31,4 @@ type: docs
 {{< card link="23" title="Day 23" icon="star" >}}
 {{< card link="24" title="Day 24" icon="star" >}}-->
 
-{{< /cards >}} -->
+{{< /cards >}} 
