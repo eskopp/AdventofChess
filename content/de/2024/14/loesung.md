@@ -1,7 +1,7 @@
 ---
-title: Tag 13 - Lösung 
+title: Tag 14 - Lösung 
 toc: false
 type: docs
 ---
 
-T.B.A.
+- Die einzige Möglichkeit ist, dass Weiß Kg8xDh8 spielt.

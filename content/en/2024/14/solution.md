@@ -4,4 +4,4 @@ toc: false
 type: docs
 ---
 
-T.B.A.
+- The only possibility is White playing Kg8xQh8.
