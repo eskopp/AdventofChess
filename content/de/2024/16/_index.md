@@ -19,8 +19,7 @@ Bevor Santa antworten kann, blinkt eine Warnung auf der Konsole auf. Ein verzerr
 
 „Das ist aus einer Partie, die ich vor Jahrzehnten gespielt habe“, sagt Magnus. „Aber ich erinnere mich nicht daran, wie ich in diese Stellung gekommen bin.“
 
-Um die Stellung zu finden, benötigen wir die genaue Position auf dem Brett. Wenn Du mir die Figurenstellung auf dem Schachbrett geben kannst, kann ich den Sequenz der Züge analysieren und nachvollziehen. Kannst du die Details der Stellung angeben?
-
+„Beginnend mit der Ausgangsposition“, fügt er hinzu, „gib eine Zugfolge an, die diese Stellung nach dem achten Zug von Weiß erreicht (acht Züge für Weiß und sieben für Schwarz).“
 
 ![Stellung Tag 16](/day16.jpg "rn2kbnr/p2ppppp/1p6/8/2pP4/5PP1/PP2PB1P/RN2KBNR w KQkq - 0 1")
 
