@@ -1,5 +1,5 @@
 ---
-title: Day 16 - Solution
+title: Day 16 - Lösung  
 toc: false
 type: docs
 ---
