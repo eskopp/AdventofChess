@@ -18,12 +18,12 @@ type: docs
 {{< card link="2024/9" title="Tag 9" icon="star" >}}
 {{< card link="2024/10" title="Tag 10" icon="star" >}}
 {{< card link="2024/11" title="Tag 11" icon="star" >}}
-{{< card link="2024/12" title="Tag 12" icon="star"  >}}
-{{< card link="2024/13" title="Tag 13" icon="star"  >}}
+{{< card link="2024/12" title="Tag 12" icon="star" >}}
+{{< card link="2024/13" title="Tag 13" icon="star" >}}
 {{< card link="2024/14" title="Tag 14" icon="star" >}}
-{{< card link="2024/15" title="Tag 15" icon="star" tag="heute" >}}
-<!--{{< card link="2024/16" title="Tag 16" icon="star" >}}
-{{< card link="2024/17" title="Tag 17" icon="star" >}}
+{{< card link="2024/15" title="Tag 15" icon="star" >}}
+{{< card link="2024/16" title="Tag 16" icon="star" tag="heute" >}}
+<!--{{< card link="2024/17" title="Tag 17" icon="star" >}}
 {{< card link="2024/18" title="Tag 18" icon="star" >}}
 {{< card link="2024/19" title="Tag 19" icon="star" >}}
 {{< card link="2024/20" title="Tag 20" icon="star" >}}
