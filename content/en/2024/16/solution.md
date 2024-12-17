@@ -4,7 +4,7 @@ toc: false
 type: docs
 ---
 
-T.B.A.
+- 1. c4 b5 2. Qb3 bxc4 3. Qb6 cxb6 4. d4 Qc7 5. Be3 Qg3 6. fxg3 Bb7 7. Bf2 Bf3 8. gxf3
 
 <br>
 <br>
