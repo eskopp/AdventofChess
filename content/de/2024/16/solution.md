@@ -11,6 +11,6 @@ type: docs
 <br>
 <iframe 
     style="width: 100%; height: 80vh;" 
-    src="https://lichess.org/study/embed/PrONOirR/VQxgsG0o" 
+    src="https://lichess.org/study/embed/PrONOirR/Q36PLDfc" 
     frameborder="0">
 </iframe> 
