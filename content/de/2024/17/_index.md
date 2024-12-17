@@ -37,7 +37,7 @@ Beispielformat: c1 e5 f7, Qf7#
 
 
 {{< callout type="info" >}}
-   Leider kann man bei ChessBase 16 nur gültige Stellungen aufbauen. Daher ist das Bild aus Lichess. Der FEN ist dennoch korrekt. 
+   Leider lässt sich in ChessBase 16 nur eine gültige Stellung aufbauen, weshalb das Bild aus Lichess stammt. Die FEN ist dennoch korrekt.
 {{< /callout >}}
 
 ![Stellung Tag 17](/day17.jpg "NR1BK3/3Q4/BKP5/P7/8/8/8/1R4B1 w - - 0 1")
