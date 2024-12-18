@@ -21,5 +21,6 @@ type: docs
 {{< card link="14" title="Tag 14" icon="star" >}}
 {{< card link="15" title="Tag 15" icon="star" >}}
 {{< card link="16" title="Tag 16" icon="star" >}}
-{{< card link="17" title="Tag 17" icon="star" tag="heute" >}}
+{{< card link="17" title="Tag 17" icon="star"  >}} 
+{{< card link="17" title="Tag 17" icon="star"   tag="heute" >}} 
 {{< /cards >}}
