@@ -4,13 +4,8 @@ toc: false
 type: docs
 ---
 
-T.B.A.
+Weiße Figuren: Turm auf b1, Bauer auf c6, Dame auf d7, König auf e8, Läufer auf g1. Die restlichen Figuren sind Schwarz. Der letzte Zug war bxc6# en passant!
 
+![Lösung Teil 1](/day17_solution.jpg "")
 
-<br>
-<br>
-<iframe 
-    style="width: 100%; height: 80vh;" 
-    src="https://lichess.org/study/embed/PrONOirR/VQxgsG0o" 
-    frameborder="0">
-</iframe> 
+![Lösung Teil 2](/day17_solution2.jpg "")
