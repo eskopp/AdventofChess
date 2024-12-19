@@ -4,8 +4,7 @@ toc: false
 type: docs
 ---
 
-T.B.A.
-
+White retracts Ne3xRd5, then Black retracts Ne4xQf2. Then follows the sequence leading to mate, with Black starting: 1. Ne6 Nc4#
 
 <!--
 <br>
