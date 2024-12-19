@@ -24,9 +24,9 @@ type: docs
 {{< card link="2024/15" title="Tag 15" icon="star" >}}
 {{< card link="2024/16" title="Tag 16" icon="star" >}}
 {{< card link="2024/17" title="Tag 17" icon="star" >}}
-{{< card link="2024/18" title="Tag 18" icon="star" tag="heute" >}}
-<!--{{< card link="2024/19" title="Tag 19" icon="star" >}}
-{{< card link="2024/20" title="Tag 20" icon="star" >}}
+{{< card link="2024/18" title="Tag 18" icon="star" >}}
+{{< card link="2024/19" title="Tag 19" icon="star" tag="heute"  >}}
+<!--{{< card link="2024/20" title="Tag 20" icon="star" >}}
 {{< card link="2024/21" title="Tag 21" icon="star" >}}
 {{< card link="2024/22" title="Tag 22" icon="star" >}}
 {{< card link="2024/23" title="Tag 23" icon="star" >}}
