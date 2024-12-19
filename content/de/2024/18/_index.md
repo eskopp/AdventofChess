@@ -23,5 +23,5 @@ Santa tritt erneut vor, seine Stimme ruhig. "Dann lasst es uns lösen. Löse das
 Dies ist ein schachgebotloses Hilfsmatt. Jedes Schachgebot, das nicht in einem Schachmatt endet, ist gegen die Regeln. Beide Spieler arbeiten dennoch zusammen, um ein Schachmatt zu erreichen, jedoch ohne Schachgebote. Daher wird ein Schachgebot auch als Schachmatt betrachtet – und damit erlaubt –, wenn die einzigen Antworten nicht schachmattende Schachgebote sind! Schwarz beginnt, dann Weiß. Vier Züge pro Seite. Der letzte Zug von Weiß muss ein Schachmatt sein.
 
 - Beispiel:  [Hier klicken :)](beispiel)
-![Stellung Tag 18](/day18.jpg "")
+![Stellung Tag 18](/day18.jpg "K7/5p1B/5n1P/3k4/8/2p5/8/7n b - - 0 1")
 

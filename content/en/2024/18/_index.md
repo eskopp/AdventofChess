@@ -22,5 +22,5 @@ Santa steps forward, his voice steady. "Then let’s fix it. Solve the puzzle, a
 This is a checkless helpmate. Any check that's not a checkmate is against the rules. Both players still cooperate to achieve checkmate, but without checks. Consequently, a check is also considered checkmate, and therefore legal, if the only responses are non-checkmating checks! Black moves first, then White. Four moves each. White's last move must be checkmate. 
 
 
-![Stellung Tag 18](/day18.jpg "")
+![Stellung Tag 18](/day18.jpg "K7/5p1B/5n1P/3k4/8/2p5/8/7n b - - 0 1")
 
