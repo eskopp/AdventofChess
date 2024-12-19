@@ -30,5 +30,5 @@ It's White to move, but the Black king is missing. Place the Black king so that 
 Example format: e8, Ra1
 
 
-![Stellung Tag 20](/day20.jpg "")
+![Stellung Tag 20](/day20.jpg "2b5/8/2r1p3/4Bp2/1p1P4/2b1N3/2QPN3/R2K4 w - - 0 1")
 
