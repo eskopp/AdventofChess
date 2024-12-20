@@ -4,7 +4,8 @@ toc: false
 type: docs
 ---
 
-T.B.A.
+- black King on h1 -> 1.Kc1 b3 2. Qd1
+- h1, Kc1 
 
 
 <!--
