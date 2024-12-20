@@ -31,5 +31,5 @@ This is a checkless help-stalemate. Checks are illegal, so if the only moves tha
 
 
 
-![Stellung Tag 21](/day21.jpg "")
+![Stellung Tag 21](/day21.jpg "8/5kPP/8/3K4/8/8/4p2p/8 b - - 0 1")
 
