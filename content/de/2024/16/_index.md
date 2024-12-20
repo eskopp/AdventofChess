@@ -1,5 +1,5 @@
 ---
-title: Day 16 - Beweis
+title: Tag 16 - Beweis
 toc: false
 type: docs
 weight: 12

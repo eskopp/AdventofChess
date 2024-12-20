@@ -1,5 +1,5 @@
 ---
-title: Day 20 - Stellungsmatt
+title: Tag 20 - Stellungsmatt
 toc: false
 type: docs
 weight: 12
