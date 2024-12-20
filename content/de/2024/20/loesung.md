@@ -4,4 +4,5 @@ toc: false
 type: docs
 ---
 
-T.B.A.
+- schwarzer König auf h1 -> 1.Kc1 b3 2. Dd1
+- h1, Kc1 
