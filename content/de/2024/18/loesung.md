@@ -1,5 +1,5 @@
 ---
-title: Day 18 - Lösung  
+title: Tag 18 - Lösung  
 toc: false
 type: docs
 ---
