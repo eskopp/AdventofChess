@@ -1,10 +1,10 @@
 ---
-title: Day 21 - Solution
+title: Day 22 - Solution
 toc: false
 type: docs
 ---
 
-1. e1=N h8=Q 2. Ng2 Qd8 3. h1=B g8=R=
+
 
 
 
