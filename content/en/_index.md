@@ -27,8 +27,8 @@ type: docs
 {{< card link="2024/18" title="Day 18" icon="star"   >}}
 {{< card link="2024/19" title="Day 19" icon="star" >}}
 {{< card link="2024/20" title="Day 20" icon="star"  >}}
-{{< card link="2024/21" title="Day 21" icon="star" tag="today" >}}
-<!--{{< card link="2024/22" title="Day 22" icon="star" >}}
-{{< card link="2024/23" title="Day 23" icon="star" >}}
+{{< card link="2024/21" title="Day 21" icon="star" >}}
+{{< card link="2024/22" title="Day 22" icon="star" tag="today" >}}
+<!--{{< card link="2024/23" title="Day 23" icon="star" >}}
 {{< card link="2024/24" title="Day 24" icon="star" >}} -->
 {{< /cards >}} 
