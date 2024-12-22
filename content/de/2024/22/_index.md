@@ -1,5 +1,5 @@
 ---
-title: Tag 22 - 
+title: Tag 22 - Rückläufig
 toc: false
 type: docs
 weight: 12
