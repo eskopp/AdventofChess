@@ -1,5 +1,5 @@
 ---
-title: Tag 22- Lösung  
+title: Tag 22 - Lösung  
 toc: false
 type: docs
 ---
