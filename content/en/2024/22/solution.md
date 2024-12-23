@@ -14,12 +14,11 @@ We conclude Red cannot be White, thus Blue must be White. It is not hard to see 
 
 
 
-<!--
+
 <br>
 <br>
 <iframe 
     style="width: 100%; height: 80vh;" 
-    src="https://lichess.org/study/embed/PrONOirR/bWxo5dlD" 
+    src="https://lichess.org/study/embed/PrONOirR/uj3Wrzet" 
     frameborder="0">
 </iframe> 
--->
