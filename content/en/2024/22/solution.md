@@ -14,7 +14,7 @@ We conclude Red cannot be White, thus Blue must be White. It is not hard to see 
 
 
 
-
+<!--
 <br>
 <br>
 <iframe 
@@ -22,3 +22,4 @@ We conclude Red cannot be White, thus Blue must be White. It is not hard to see 
     src="https://lichess.org/study/embed/PrONOirR/uj3Wrzet" 
     frameborder="0">
 </iframe> 
+-->

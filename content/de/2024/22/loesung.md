@@ -11,7 +11,7 @@ Angenommen, Rot ist Weiß (was bedeutet, dass Blau rochieren kann). Der letzte Z
 Wir schließen daraus, dass Rot nicht Weiß sein kann, also muss Blau Weiß sein. Es ist leicht zu erkennen, dass die Stellung in diesem Fall keine Legitimationsprobleme aufweist.
 
 
-
+<!--
 <br>
 <br>
 <iframe 
@@ -19,3 +19,4 @@ Wir schließen daraus, dass Rot nicht Weiß sein kann, also muss Blau Weiß sein
     src="https://lichess.org/study/embed/PrONOirR/uj3Wrzet" 
     frameborder="0">
 </iframe> 
+-->
