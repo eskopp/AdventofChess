@@ -1,5 +1,5 @@
 ---
-title: Day 24 - 
+title: Day 24 - Proof Game
 toc: false
 type: docs
 weight: 12
