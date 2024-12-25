@@ -2,7 +2,7 @@
 title: Epilogue
 toc: false
 type: docs
-weight: 12
+weight: 120
 ---
 As the group walks back toward the factory, a faint ping comes from David’s scanner. He pauses, frowning. "That shouldn’t be possible. The TSC just sent a signal."
 

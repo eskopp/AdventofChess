@@ -2,7 +2,7 @@
 title: Epilog
 toc: false
 type: docs
-weight: 12
+weight: 120
 ---
 Als die Gruppe zurück zur Fabrik geht, ertönt ein leises Ping von Davids Scanner. Er bleibt stehen, die Stirn gerunzelt. „Das dürfte nicht möglich sein. Die TSC hat gerade ein Signal gesendet.“
 
