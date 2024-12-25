@@ -31,5 +31,5 @@ type: docs
 {{< card link="2024/22" title="Day 22" icon="star" tag="fourth advent" >}}
 {{< card link="2024/23" title="Day 23" icon="star" >}}
 {{< card link="2024/24" title="Day 24" icon="star" tag="holy night" >}}
-{{< card link="2024/Epilogue" title="Epilogue" icon="star"  >}}
+{{< card link="2024/epilogue" title="Epilogue" icon="star"  >}}
 {{< /cards >}}
