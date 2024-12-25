@@ -29,5 +29,5 @@ type: docs
 {{< card link="22" title="Tag 22" icon="star" tag="Vierter Advent" >}}
 {{< card link="23" title="Tag 23" icon="star"  >}}
 {{< card link="24" title="Tag 24" icon="star" tag="Heilig Abend" >}}
-
+{{< card link="Epilog" title="Epilog" icon="star"  >}}
 {{< /cards >}}
