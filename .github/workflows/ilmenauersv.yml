@@ -42,23 +42,24 @@ jobs:
           hugo mod tidy
           hugo
 
+      # Deploy on Ilmenauer Schachverein Website
       - name: Deploy files via SSH
         uses: appleboy/scp-action@v0.1.7
         with:
-          host: ${{ secrets.SSH_SERVER }}
-          username: ${{ secrets.SSH_USER }}
+          host: ${{ secrets.ISV_SSH_SERVER }}
+          username: ${{ secrets.ISV_SSH_USER }}
           source: "public/*"
-          target: "/var/www/ilmenauerschachverein/adventskalender"
+          target: "/var/www/adventskalender"
           rm: true
-          password: ${{ secrets.SSH_PASSWORD }}
+          password: ${{ secrets.ISV_SSH_PASSWORD }}
 
       - name: Create folder structure
         uses: appleboy/ssh-action@v1.2.0
         with:
-          host: ${{ secrets.SSH_SERVER }}
-          username: ${{ secrets.SSH_USER }}
-          password: ${{ secrets.SSH_PASSWORD }}
+          host: ${{ secrets.ISV_SSH_SERVER }}
+          username: ${{ secrets.ISV_SSH_USER }}
+          password: ${{ secrets.ISV_SSH_PASSWORD }}
           script: |
-            cd /var/www/ilmenauerschachverein/adventskalender
+            cd /var/www/adventskalender
             mv public/* .
             rm -rf public
