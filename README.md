@@ -12,4 +12,4 @@ This repository is a fan project and is not affiliated with the original *Advent
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). The original tasks and their content are copyrighted by *Advent of Chess*.
+This repository is licensed under the [MIT License](LICENSE). The original tasks and their content are copyrighted by *Advent of Chess*. 
