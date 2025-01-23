@@ -1,6 +1,6 @@
 title: Advent of Code
 baseURL: "https://erik-skopp.de/AdventofChess/"
- 
+
 # import hextra as module
 module:
   imports:
@@ -13,7 +13,6 @@ markup:
       unsafe: true
     extensions:
       footnote: true
-
 
   # enable hextra syntax highlight
   highlight:

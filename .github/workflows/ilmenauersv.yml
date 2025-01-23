@@ -44,7 +44,7 @@ jobs:
           host: ${{ secrets.ISV_SSH_SERVER }}
           username: ${{ secrets.ISV_SSH_USER }}
           source: "public/*"
-          target: "/var/www/adventskalender" 
+          target: "/var/www/adventskalender"
           rm: true
           password: ${{ secrets.ISV_SSH_PASSWORD }}
 
