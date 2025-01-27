@@ -1,7 +1,7 @@
 title = "Advent of Code"
 baseURL = "https://adventofchess.erik-skopp.de"
 
-defaultContentLanguage = "de"
+defaultContentLanguage = 'de'
 
 [languages]
   [languages.de]
