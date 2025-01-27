@@ -1,11 +1,7 @@
 title = "Advent of Code"
 baseURL = "https://adventofchess.erik-skopp.de"
 
-# Import hextra as module
-[module]
-  [[module.imports]]
-  path = "github.com/imfing/hextra"
-
+defaultContentLanguage = "de"
 
 [languages]
   [languages.de]
@@ -15,6 +11,12 @@ baseURL = "https://adventofchess.erik-skopp.de"
   contentDir = "content/de"
   languageCode = "de"
 
+
+
+# Import hextra as module
+[module]
+  [[module.imports]]
+  path = "github.com/imfing/hextra"
 
 [markup]
   # Allow raw HTML
@@ -28,10 +30,6 @@ baseURL = "https://adventofchess.erik-skopp.de"
   [markup.highlight]
   noClasses = false
   
-
-defaultContentLanguage = "de"
-
-
 [menu]
   [[menu.main]]
   name = "Search"
