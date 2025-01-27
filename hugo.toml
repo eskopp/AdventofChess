@@ -10,7 +10,13 @@ defaultContentLanguage = "de"
   title = "Schach Adventskalender"
   contentDir = "content/de"
   languageCode = "de"
-
+  
+  [languages.en]
+  languageName = "Englisch / English"
+  weight = 1
+  title = " Advent of Chess"
+  contentDir = "content/en"
+  languageCode = "en"
 
 
 # Import hextra as module
