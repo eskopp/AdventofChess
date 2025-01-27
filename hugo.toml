@@ -1,0 +1,80 @@
+title = "Advent of Code"
+baseURL = "https://adventofchess.erik-skopp.de"
+
+# Import hextra as module
+[module]
+  [[module.imports]]
+  path = "github.com/imfing/hextra"
+
+[markup]
+  # Allow raw HTML
+  [markup.goldmark.renderer]
+  unsafe = true
+
+  [markup.goldmark.extensions]
+   footnote = true
+
+  # Enable hextra syntax highlight
+  [markup.highlight]
+   noClasses = false
+
+defaultContentLanguage = "de"
+
+[languages]
+  [languages.de]
+  languageName = "German / Deutsch"
+  weight = 1
+  title = "Schach Adventskalender"
+  contentDir = "content/de"
+
+  [languages.en]
+  languageName = "Englisch / English"
+  weight = 1
+  title = "Advent of Chess"
+  contentDir = "content/en"
+
+[menu]
+  [[menu.main]]
+  name = "Search"
+  weight = 5
+  [menu.main.params]
+  type = "search"
+
+  [[menu.main]]
+  name = "GitHub"
+  weight = 6
+  url = "https://github.com/eskopp/AdventofChess"
+  [menu.main.params]
+  icon = "github"
+
+  [[menu.main]]
+  name = "Instagram"
+  weight = 7
+  url = "https://instagram.com/erik.skopp"
+  [menu.main.params]
+  icon = "instagram"
+
+[services]
+  [services.googleAnalytics]
+  ID = "G-4BPZENDQNG"
+
+[params]
+  disableToc = true
+
+  [params.navbar]
+  displayTitle = true
+  displayLogo = true
+
+  [params.theme]
+  default = "system"
+
+  [params.footer]
+  displayCopyright = false
+  displayPoweredBy = false
+
+  [params.editURL]
+  enable = true
+  base = "https://github.com/eskopp/AdventofChess/edit/content/main/"
+
+  [params.page]
+  width = "full"
