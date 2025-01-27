@@ -23,15 +23,15 @@ defaultContentLanguage = "de"
 
 [languages]
   [languages.de]
-  languageName = "German / Deutsch"
+  languageName = "de"
   weight = 1
   title = "Schach Adventskalender"
   contentDir = "content/de"
   languageCode = "de"
 
   [languages.en]
-  languageName = "Englisch / English"
-  weight = 1  
+  languageName = "en"
+  weight = 2 
   title = "Advent of Chess"
   contentDir = "content/en"
   languageCode = "en"
