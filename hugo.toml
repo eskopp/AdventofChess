@@ -6,6 +6,22 @@ baseURL = "https://adventofchess.erik-skopp.de"
   [[module.imports]]
   path = "github.com/imfing/hextra"
 
+
+[languages]
+  [languages.de]
+  languageName = "German / Deutsch"
+  weight = 0
+  title = "Schach Adventskalender"
+  contentDir = "content/de"
+  languageCode = ""
+
+  [languages.en]
+  languageName = "Englisch / English"
+  weight = 1
+  languageCode  = "asdasdasdf"
+  title = "Advent of Chess"
+  contentDir = "content/en"
+
 [markup]
   # Allow raw HTML
   [markup.goldmark.renderer]
@@ -21,20 +37,6 @@ baseURL = "https://adventofchess.erik-skopp.de"
 
 defaultContentLanguage = "de"
 
-[languages]
-  [languages.de]
-  languageName = "German / Deutsch"
-  weight = 2  # Höheres Gewicht für Deutsch
-  title = "Schach Adventskalender"
-  contentDir = "content/de"
-  languageCode = "123"
-
-  [languages.en]
-  languageName = "Englisch / English"
-  weight = 1
-  languageCode  = "asdasdasdf"
-  title = "Advent of Chess"
-  contentDir = "content/en"
 
 [menu]
   [[menu.main]]
