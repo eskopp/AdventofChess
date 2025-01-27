@@ -23,18 +23,18 @@ defaultContentLanguage = "de"
 
 [languages]
   [languages.de]
-  languageName = "de"
-  weight = 1
+  languageName = "German / Deutsch"
+  weight = 2  # Höheres Gewicht für Deutsch
   title = "Schach Adventskalender"
   contentDir = "content/de"
-  languageCode = "de"
+  languageCode = "123"
 
   [languages.en]
-  languageName = "en"
-  weight = 2 
+  languageName = "Englisch / English"
+  weight = 1
+  languageCode  = "asdasdasdf"
   title = "Advent of Chess"
   contentDir = "content/en"
-  languageCode = "en"
 
 [menu]
   [[menu.main]]
