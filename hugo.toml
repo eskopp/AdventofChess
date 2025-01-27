@@ -13,14 +13,8 @@ baseURL = "https://adventofchess.erik-skopp.de"
   weight = 0
   title = "Schach Adventskalender"
   contentDir = "content/de"
-  languageCode = ""
+  languageCode = "de"
 
-  [languages.en]
-  languageName = "Englisch / English"
-  weight = 1
-  languageCode  = "asdasdasdf"
-  title = "Advent of Chess"
-  contentDir = "content/en"
 
 [markup]
   # Allow raw HTML
