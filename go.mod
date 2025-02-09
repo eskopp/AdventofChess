@@ -1,6 +1,6 @@
 module erik-skopp.de/AdventofChess
 
-go 1.23.5
+go 1.23.6
 
 require (
 	github.com/gethinode/mod-flexsearch v1.12.1 // indirect
